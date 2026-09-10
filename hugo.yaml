@@ -7,8 +7,8 @@ caches:
 params:
   defaultTheme: auto
   homeInfoParams:
-    Title: About Me
-    Content: I am a PhD candidate in the School of Physics and Astronomy at Monash University. I analyse gravitational-wave data in order to learn more about compact bodies like neutron stars and black holes.
+    Title: Mallika Sinha
+    Content: I am a PhD candidate in the School of Physics and Astronomy at Monash University. I analyse gravitational-wave data in order to learn more about compact bodies like neutron stars and black holes. I am a member of the Laser Interferometer Gravitational-Wave Observatory (<a href="https://ligo.org/" target="_blank">LIGO</a>) Scientific Collaboration.
 
   socialIcons: # optional
     - name: "email"
