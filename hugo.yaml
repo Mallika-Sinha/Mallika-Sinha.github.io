@@ -6,7 +6,6 @@ caches:
     dir: :cacheDir/images
 params:
   defaultTheme: auto
-params:
   homeInfoParams:
     Title: About Me
     Content: I am a PhD candidate in the School of Physics and Astronomy at Monash University. I analyse gravitational-wave data in order to learn more about compact bodies like neutron stars and black holes.
