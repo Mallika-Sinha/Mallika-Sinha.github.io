@@ -2,3 +2,6 @@ baseURL: https://mallikasinha.org/
 locale: en-aus
 title: Mallika Sinha
 theme: ["PaperMod"]
+caches:
+  images:
+    dir: :cacheDir/images
