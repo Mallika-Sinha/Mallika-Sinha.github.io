@@ -6,12 +6,63 @@ caches:
     dir: :cacheDir/images
 params:
   defaultTheme: auto
-  homeInfoParams:
-    Title: Mallika Sinha
-    Content: I am a PhD candidate in the School of Physics and Astronomy at Monash University. I analyse gravitational-wave data in order to learn more about compact bodies like neutron stars and black holes. I am a member of the Laser Interferometer Gravitational-Wave Observatory (<a href="https://ligo.org/" target="_blank">LIGO</a>) Scientific Collaboration.
+  profileMode:
+    enabled: true
+    title: "Mallika Sinha"
+    subtitle: "I am a PhD candidate in the School of Physics and Astronomy at Monash University. I analyse gravitational-wave data in order to learn more about compact bodies like neutron stars and black holes. I am a member of the Laser Interferometer Gravitational-Wave Observatory (<a href=\"https://ligo.org/\" target=\"_blank\">LIGO</a>) Scientific Collaboration."
+    imageUrl: "/images/profile.jpg"
+    imageTitle: "Mallika Sinha"
+    imageWidth: 150
+    imageHeight: 150
+    buttons:
+      - name: About Me
+        url: "/about-me"
+      - name: Research
+        url: "/research"
+      #- name: Publications
+      #  url: "/publications"
+      - name: Blog
+        url: "/blog"
+      - name: News
+        url: "/news"
+      #- name: Outreach & Engagement
+      #  url: "/outreach-engagement"
+      #- name: Contact
+      #  url: "/contact"
 
-  socialIcons: # optional
+  socialIcons: 
     - name: "email"
       url: "mailto:mallika.sinha@monash.edu"
     - name: "googlescholar"
       url: "https://scholar.google.com/citations?user=nqDqhJgAAAAJ&hl=en"
+
+menu:
+  main:
+    - identifier: about-me
+      name: About Me
+      url: /about-me/
+      weight: 10
+    - identifier: research
+      name: Research
+      url: /research/
+      weight: 20
+    - identifier: publications
+      name: Publications
+      url: /publications/
+      weight: 30
+    - identifier: blog
+      name: Blog
+      url: /blog/
+      weight: 40
+    - identifier: news
+      name: News
+      url: /news/
+      weight: 50
+    - identifier: outreach-engagement
+      name: "Outreach & Engagement"
+      url: /outreach-engagement/
+      weight: 60
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 70

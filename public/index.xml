@@ -6,6 +6,26 @@
     <description>Recent content on Mallika Sinha</description>
     <generator>Hugo</generator>
     <language>en-aus</language>
+    <lastBuildDate>Thu, 10 Sep 2026 13:04:36 +1000</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>/publications/</link>
+      <pubDate>Thu, 10 Sep 2026 13:04:36 +1000</pubDate>
+      <guid>/publications/</guid>
+      <description>&lt;h2 id=&#34;layout-single&#34;&gt;title: &amp;ldquo;Publications&amp;rdquo;
+layout: &amp;ldquo;single&amp;rdquo;&lt;/h2&gt;
+&lt;p&gt;This is a list of the my publications, and the LIGO Collaboration papers I&amp;rsquo;ve directly contributed to. Members are co-authors on all Collaboration papers; a full list can be found on my &lt;a href=&#34;https://scholar.google.com/citations?user=nqDqhJgAAAAJ&amp;amp;hl=en&#34;&gt;[Google Scholar]&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;short-author-papers&#34;&gt;Short-Author Papers&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Sinha, M. R.&lt;/strong&gt;, Sun, L., Ma, S. (2025), &lt;em&gt;Impact of detector calibration accuracy on black hole spectroscopy&lt;/em&gt;. &lt;a href=&#34;https://journals.aps.org/prd/abstract/10.1103/s9jw-jg6n&#34;&gt;[Phys. Rev. D 112, 084038.]&lt;/a&gt; &lt;a href=&#34;https://arxiv.org/abs/2506.15979&#34;&gt;[arXiv]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sinha, M.&lt;/strong&gt; Clarke, T. A,, Zhang, Q., Sarin, N., Thrane, E., and Lasky, P. D. (2025), &lt;em&gt;Searching for gravitational waves from compact binary mergers powering long gamma-ray bursts during LIGO-Virgo-KAGRA&amp;rsquo;s O3 run&lt;/em&gt;. &lt;a href=&#34;https://academic.oup.com/mnras/article/549/1/stag834/8671429&#34;&gt;[MNRAS, 549(1).]&lt;/a&gt; &lt;a href=&#34;https://arxiv.org/abs/2602.05169&#34;&gt;[arXiv]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;collaboration-papers-ligo&#34;&gt;Collaboration Papers (LIGO)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;LIGO-Virgo-KAGRA Collaboration (2026), &lt;em&gt;GW240925 and GW250207: Astrophysical Calibration of Gravitational-wave Detectors&lt;/em&gt;. &lt;a href=&#34;https://journals.aps.org/prl/abstract/10.1103/gzrj-mwv3&#34;&gt;[Phys. Rev. Lett. 137, 071401.]&lt;/a&gt; &lt;a href=&#34;https://arxiv.org/abs/2605.11703&#34;&gt;[arXiv]&lt;/a&gt; (Analyst)&lt;/li&gt;
+&lt;li&gt;LIGO-Virgo-KAGRA Collaboration (2026), &lt;em&gt;GWTC-5.0: Tests of General Relativity&lt;/em&gt;. Submitted. &lt;a href=&#34;https://arxiv.org/abs/2607.19293&#34;&gt;[arXiv]&lt;/a&gt; (Analyst)&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
   </channel>
 </rss>
