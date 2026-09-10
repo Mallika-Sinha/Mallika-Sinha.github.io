@@ -8,8 +8,8 @@ params:
   defaultTheme: auto
   profileMode:
     enabled: true
-    title: "Mallika Sinha"
-    subtitle: "I am a PhD candidate in the School of Physics and Astronomy at Monash University. I analyse gravitational-wave data in order to learn more about compact bodies like neutron stars and black holes. I am a member of the Laser Interferometer Gravitational-Wave Observatory (<a href=\"https://ligo.org/\" target=\"_blank\">LIGO</a>) Scientific Collaboration."
+    title: "Mallika Sinha (she/her)"
+    subtitle: "PhD candidate in the School of Physics and Astronomy at Monash University<br> 💫 Status: Analysing gravitational-wave data in order to learn more about neutron stars and black holes."
     imageUrl: "/images/profile.jpg"
     imageTitle: "Mallika Sinha"
     imageWidth: 150
@@ -35,6 +35,8 @@ params:
       url: "mailto:mallika.sinha@monash.edu"
     - name: "googlescholar"
       url: "https://scholar.google.com/citations?user=nqDqhJgAAAAJ&hl=en"
+    - name: "orcid"
+      url: "https://orcid.org/0009-0008-0906-6328"
 
 menu:
   main:
