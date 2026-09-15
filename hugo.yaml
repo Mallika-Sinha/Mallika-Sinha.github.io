@@ -1,5 +1,9 @@
 baseURL: "https://mallika-sinha.github.io/"
 locale: en-aus
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 title: Mallika Sinha
 theme: ["PaperMod"]
 caches:
