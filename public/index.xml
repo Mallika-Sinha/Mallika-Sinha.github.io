@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Mallika Sinha</title>
-    <link>/</link>
+    <link>https://mallika-sinha.github.io/</link>
     <description>Recent content on Mallika Sinha</description>
     <generator>Hugo</generator>
     <language>en-aus</language>
     <lastBuildDate>Thu, 10 Sep 2026 13:04:36 +1000</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mallika-sinha.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Publications</title>
-      <link>/publications/</link>
+      <link>https://mallika-sinha.github.io/publications/</link>
       <pubDate>Thu, 10 Sep 2026 13:04:36 +1000</pubDate>
-      <guid>/publications/</guid>
+      <guid>https://mallika-sinha.github.io/publications/</guid>
       <description>&lt;p&gt;This is a list of the short-author and LIGO Collaboration publications I&amp;rsquo;ve directly contributed to. Members are co-authors on all Collaboration papers; a full list can be found on my &lt;a href=&#34;https://scholar.google.com/citations?user=nqDqhJgAAAAJ&amp;amp;hl=en&#34;
     target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;[Google Scholar]&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;short-author-papers&#34;&gt;Short-Author Papers&lt;/h2&gt;
@@ -35,9 +35,9 @@
     </item>
     <item>
       <title>About Me</title>
-      <link>/about-me/</link>
+      <link>https://mallika-sinha.github.io/about-me/</link>
       <pubDate>Thu, 10 Sep 2026 13:03:32 +1000</pubDate>
-      <guid>/about-me/</guid>
+      <guid>https://mallika-sinha.github.io/about-me/</guid>
       <description>&lt;p&gt;Hey folks, thanks for visiting my page! I&amp;rsquo;m a PhD candidate in the School of Physics and Astronomy at Monash University 🐨. I love using some of the most energetic and voilent explosions in the Universe to learn more about extreme events that caused them. I do this by analysing gravitational waves detected by the the Laser Interferometer Gravitational-Wave Observatory (&lt;a href=&#34;https://ligo.org/&#34;
     target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;[LIGO]&lt;/a&gt;). So far, we&amp;rsquo;ve detected gravitational waves from the collisions of black holes and neutron stars (both with themselves and with each other). A binary black hole merger can emit energy equivalent to the mass of several Suns in a fraction of a second!&lt;/p&gt;</description>
     </item>

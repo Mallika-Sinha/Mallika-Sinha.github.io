@@ -1,3 +1,4 @@
+baseURL: "https://mallika-sinha.github.io/"
 locale: en-aus
 title: Mallika Sinha
 theme: ["PaperMod"]
@@ -9,7 +10,7 @@ params:
   profileMode:
     enabled: true
     title: "Mallika Sinha (she/her)"
-    subtitle: "PhD candidate in the School of Physics and Astronomy at Monash University\n 💫 Status: Analysing gravitational-wave data in order to learn more about neutron stars and black holes."
+    subtitle: "PhD candidate in the School of Physics and Astronomy at Monash University<br> 💫 Status: Analysing gravitational-wave data in order to learn more about neutron stars and black holes."
     imageUrl: "/images/profile.jpg"
     imageTitle: "Mallika Sinha"
     imageWidth: 150
