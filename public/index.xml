@@ -6,8 +6,30 @@
     <description>Recent content on Mallika Sinha</description>
     <generator>Hugo</generator>
     <language>en-aus</language>
-    <lastBuildDate>Thu, 10 Sep 2026 13:04:36 +1000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 13:05:42 +1000</lastBuildDate>
     <atom:link href="https://mallika-sinha.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>News</title>
+      <link>https://mallika-sinha.github.io/news/</link>
+      <pubDate>Thu, 10 Sep 2026 13:05:42 +1000</pubDate>
+      <guid>https://mallika-sinha.github.io/news/</guid>
+      <description>&lt;h2 id=&#34;2026&#34;&gt;2026&lt;/h2&gt;
+&lt;p&gt;📰 &lt;strong&gt;[Title of the article]&lt;/strong&gt; — &lt;em&gt;Publication Name&lt;/em&gt;, Month 2026&lt;br&gt;
+One sentence of context.&lt;br&gt;
+&lt;a href=&#34;https://example.com/article-link&#34;
+    target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Read more →&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;🏆 &lt;strong&gt;[Award name]&lt;/strong&gt; — &lt;em&gt;Awarding Body&lt;/em&gt;, Month 2026&lt;br&gt;
+One sentence of context.&lt;/p&gt;
+&lt;h2 id=&#34;2025&#34;&gt;2025&lt;/h2&gt;
+&lt;p&gt;🏆 &lt;strong&gt;[Award name]&lt;/strong&gt; — &lt;em&gt;Awarding Body&lt;/em&gt;, Month 2026&lt;br&gt;
+One sentence of context.&lt;/p&gt;
+&lt;h2 id=&#34;2024&#34;&gt;2024&lt;/h2&gt;
+&lt;h2 id=&#34;2023&#34;&gt;2023&lt;/h2&gt;
+&lt;p&gt;📰 &lt;strong&gt;[It’s written in the stars: How maths can unveil the wonders of the universe]&lt;/strong&gt; — &lt;em&gt;ANU College of Science and Medicine&lt;/em&gt;, July&lt;br&gt;
+Profile piece on my journey from a maths/physics dual undergraduate degree into gravitational-wave research.
+&lt;a href=&#34;https://science.anu.edu.au/news-events/news/its-written-stars-how-maths-can-unveil-wonders-universe&#34;
+    target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Publications</title>
       <link>https://mallika-sinha.github.io/publications/</link>
@@ -34,12 +56,26 @@
 &lt;/ul&gt;</description>
     </item>
     <item>
+      <title>Contact Me</title>
+      <link>https://mallika-sinha.github.io/contact-me/</link>
+      <pubDate>Thu, 10 Sep 2026 13:03:59 +1000</pubDate>
+      <guid>https://mallika-sinha.github.io/contact-me/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>https://mallika-sinha.github.io/research/</link>
+      <pubDate>Thu, 10 Sep 2026 13:03:43 +1000</pubDate>
+      <guid>https://mallika-sinha.github.io/research/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>About Me</title>
       <link>https://mallika-sinha.github.io/about-me/</link>
       <pubDate>Thu, 10 Sep 2026 13:03:32 +1000</pubDate>
       <guid>https://mallika-sinha.github.io/about-me/</guid>
-      <description>&lt;p&gt;Hey folks, thanks for visiting my page! I&amp;rsquo;m a PhD candidate in the School of Physics and Astronomy at Monash University 🐨. I love using some of the most energetic and voilent explosions in the Universe to learn more about extreme events that caused them. I do this by analysing gravitational waves detected by the the Laser Interferometer Gravitational-Wave Observatory (&lt;a href=&#34;https://ligo.org/&#34;
-    target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;[LIGO]&lt;/a&gt;). So far, we&amp;rsquo;ve detected gravitational waves from the collisions of black holes and neutron stars (both with themselves and with each other). A binary black hole merger can emit energy equivalent to the mass of several Suns in a fraction of a second!&lt;/p&gt;</description>
+      <description>&lt;p&gt;Hey folks, thanks for visiting my page! I&amp;rsquo;m a PhD candidate in the School of Physics and Astronomy at Monash University 🐨. I love using some of the most energetic and voilent explosions in the Universe to learn more about the extreme events that caused them. I do this by analysing gravitational waves emitted during the explosion, which we can observe with the Laser Interferometer Gravitational-Wave Observatory (&lt;a href=&#34;https://ligo.org/&#34;
+    target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;LIGO&lt;/a&gt;). So far, we&amp;rsquo;ve detected gravitational waves from the collisions of black holes and neutron stars (both with themselves and with each other). A binary black hole merger can emit energy equivalent to the mass of several Suns in a fraction of a second!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
